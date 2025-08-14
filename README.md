@@ -75,4 +75,4 @@ npx playwright test tests/Elements/textBox.spec.ts
 
 ## Créditos
 
-Desarrollado por [Tu Nombre
+Desarrollado por [RONALD_BELTRAN]
