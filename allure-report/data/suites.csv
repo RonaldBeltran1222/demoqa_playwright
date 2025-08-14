@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","6579","Demo con capturas","chromium","Thu Aug 14 14:50:11 COT 2025","passed","Thu Aug 14 14:50:17 COT 2025","","example.spec.ts","",""
+"","2045","get started link","chromium","Thu Aug 14 14:50:09 COT 2025","passed","Thu Aug 14 14:50:11 COT 2025","","example.spec.ts","",""
+"","1511","has title","chromium","Thu Aug 14 14:50:06 COT 2025","passed","Thu Aug 14 14:50:08 COT 2025","","example.spec.ts","",""
+"","7172","Abrir Elements y acceder a Text Box","chromium","Thu Aug 14 14:50:06 COT 2025","passed","Thu Aug 14 14:50:13 COT 2025","Automatización sección Elements","Elements\elements.spec.ts","",""
+"","10535","Flujo completo Text Box","chromium","Thu Aug 14 16:01:41 COT 2025","passed","Thu Aug 14 16:01:52 COT 2025","","Elements\textBox.spec.ts","",""
+"","10766","Abrir Elements y acceder a Check Box","chromium","Thu Aug 14 14:50:06 COT 2025","passed","Thu Aug 14 14:50:17 COT 2025","Automatización sección Elements","Elements\elements.spec.ts","",""
